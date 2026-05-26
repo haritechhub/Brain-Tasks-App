@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "cluster_name" {
-  default = "devops-eks-cluster"
+  default = "brain-tasks-cluster"
 }
 
 variable "instance_type" {
